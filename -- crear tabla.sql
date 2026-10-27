@@ -22,3 +22,4 @@ WHERE linea = 'facial';
 UPDATE descuentos
 SET activo = '0'
 WHERE codigo = 'kin10'
+---subir archico 
